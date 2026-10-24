@@ -1,0 +1,8 @@
+node_modules
+uploads/
+*.pdf
+.env
+logs/
+.sequelizerc
+coverage/
+.nyc_output/
